@@ -95,23 +95,23 @@ public class MenuView {
     }
 
     private void tree() {
-        System.out.println("\n*** Tree Demo ***");
+        //System.out.println("\n*** Tree Demo ***");
 
         //Create Tree Demo
-        //Tree treeDemo = new Tree();
+        Tree treeDemo = new Tree();
 
         //Display Tree Demo
-        //treeDemo.treeCol();
+        treeDemo.treeCol();
     }
 
     private void map() {
-        System.out.println("\n*** Map Demo ***");
+        //System.out.println("\n*** Map Demo ***");
 
         //Create Map Demo
-        //Map mapDemo = new Map();
+        Map mapDemo = new Map();
 
         //Display Map Demo
-        //mapDemo.mapCol();
+        mapDemo.mapCol();
     }
 
     private void exit() {

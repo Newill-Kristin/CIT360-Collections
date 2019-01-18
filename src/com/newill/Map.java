@@ -1,4 +1,4 @@
-package com.github.newill;
+package com.newill;
 
 /**
  * Created by Kristin Newill (aingealfire) on 1/16/2019.

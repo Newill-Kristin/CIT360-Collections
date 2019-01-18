@@ -1,4 +1,4 @@
-package com.github.newill;
+package com.newill;
 
 import java.util.Deque;
 import java.util.LinkedList;
